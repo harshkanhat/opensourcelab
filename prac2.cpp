@@ -12,6 +12,10 @@ int main()
     {
         cout << num << " is even." << endl;
     } 
+    else{
+        cout << num << " is odd." << endl;
+
+    }
     
     return 0;
 }
